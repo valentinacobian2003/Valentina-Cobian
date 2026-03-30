@@ -1,1 +1,3 @@
-# Valentina-Cobian
+
+
+I started by downloading Cursor from the link provided and creating an account. After getting into the app, I found the extensions section pretty quickly and installed both Claude Code and Codex, then logged into them. Next, I created a GitHub account and made a new public repository. I wasn’t sure at first how to open the repository in Cursor, so I watched a video and learned I needed to use git clone. That led to another issue because I didn’t have Git installed yet, so I downloaded it on Windows. After that, I was finally able to clone my repository and open it in Cursor. Once everything was set up, I created this README file and wrote out the steps I took.
